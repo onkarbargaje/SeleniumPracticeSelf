@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="AmazonTest">
+		<classes>
+			<class name="amz_test.Amz_Test_22" />
+			<class name="amz_test.Amz_Test_11" />
+			<class name="amz_test.Amz_Test_10" />
+			<class name="amz_test.Amz_Test_20" />
+			<class name="amz_test.Amz_Test_25" />
+			<class name="amz_test.Amz_Test_13" />
+			<class name="amz_test.Amz_Test_24" />
+			<class name="amz_test.Amz_Test_02" />
+			<class name="amz_test.Amz_Test_12" />
+			<class name="amz_test.Amz_Test_23" />
+			<class name="amz_test.Amz_Test_01" />
+			<class name="amz_test.Amz_Test_19" />
+			<class name="amz_test.Amz_Test_16" />
+			<class name="amz_test.Amz_Test_09" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
